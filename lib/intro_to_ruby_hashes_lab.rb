@@ -1,13 +1,13 @@
 def new_hash
-  
+  hash = {}
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  person = {name: "Barry", age: 24}
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  insect = {:name => "Grace Hopper", :age => 2}
 end
 
 
